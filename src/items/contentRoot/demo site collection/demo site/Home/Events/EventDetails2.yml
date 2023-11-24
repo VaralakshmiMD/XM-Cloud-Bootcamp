@@ -1,0 +1,131 @@
+﻿---
+ID: "41fc6439-0e49-4cbb-a0eb-980dd9d38c8f"
+Parent: "09e95f2c-73da-48f5-a372-2c5910d40c8e"
+Template: "edaacb77-2e08-41f6-bb74-e7e3d6ef1933"
+Path: /sitecore/content/demo site collection/demo site/Home/Events/EventDetails2
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{B3A56DC0-DBF4-4C29-AF4B-C46979CACDC3}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A10A8F5A-49E1-4758-8289-2EE7004F1C57}"
+              p:before="*"
+              s:id="{0787AED5-6A5B-41A6-B68A-94363B0395C6}"
+              s:par="CacheClearingBehavior=Clear on publish&amp;CSSStyles"
+              s:ph="headless-main" />
+            <r
+              uid="{B6662503-5A64-4DEA-B4D3-69641A1E80EF}"
+              p:after="*[1=2]"
+              s:id="{20A59AE1-444E-454A-891A-C5302192FA05}"
+              s:par="CacheClearingBehavior=Clear on publish&amp;CSSStyles"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "0fed443c-ba20-43e5-8ba0-9595db3e7753"
+      Hint: Title
+      Value: eventdetails2
+    - ID: "14c2830d-4475-44ab-9450-0ce5f070ec42"
+      Hint: EventImage
+      Value: |
+        <image mediaid="{ECB99266-EB6B-4C03-932F-3C884A7542AE}" />
+    - ID: "210341dc-e09d-4f8a-87ea-1698b53dd3d5"
+      Hint: IntroText
+      Value: Day 2 was all about hands on with deep dive understanding of use cases
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T080415Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: EventDetails2
+    - ID: "66c30b1b-6d8d-42af-bbbf-7204188eb5ff"
+      Hint: RelatedEvents
+      Value: |
+        {42907FA0-4ADB-406B-9CF2-5B9AE4F8AC7A}
+        {9CEDB5FB-5374-4FC7-B4E8-E445E54E9C12}
+        {92C01878-ADF6-4429-AA86-EC3D34424538}
+        {F6AA0965-47A3-4D7A-B2EB-953BB27D1157}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b00bca27-3c40-4021-a913-c299b1a3a6f6"
+    - ID: "935ad2c6-85eb-40ee-bfae-f47ae5f27211"
+      Hint: EventTitle
+      Value: "Day2: Rendering Content Resolvers Experience Edge for XM"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "cc8d50ef-62a4-4bf0-9386-60e390ea72cf"
+      Hint: EventLocation
+      Value: vadadora head office,4th floor.
+    - ID: "d39691eb-3c9a-421b-82c6-8284ca29906d"
+      Hint: EventDescription
+      Value: |
+        <p>why XMC, what is XMC</p>
+        <p>Advantages and Limitations</p>
+        <p>HOW to use it?</p>
+        <ul style="margin-top: 0in; margin-bottom: 0in; list-style-type: disc;">
+            <li>Using light weight GraphQL API using https endpoint</li>
+        </ul>
+        <ul style="margin-top: 0in; margin-bottom: 0in; list-style-type: disc;">
+            <li>By exposing standard traditional publishing tool to publish the content to edge end point</li>
+        </ul>
+        <ul style="margin-top: 0in; margin-bottom: 0in; list-style-type: disc;">
+            <li>Instead of rendering content from a Content Delivery environment like we did in past, Experience Edge provides you a Sitecore-hosted GraphQL API</li>
+        </ul>
+        <ul style="margin-top: 0in; margin-bottom: 0in; list-style-type: disc;">
+            <li>Highly Scalable</li>
+            <br />
+            <li>API<br />
+            <br />
+            &bull; Preview API / Delivery API<br />
+            <span> Preview - Can be used for self-hosted CM instance for testing purpose before publishing anything</span><br />
+            <span> IDE : https://&lt;your cm host&gt;/sitecore/api/graph/edge/ui&nbsp; (Browser URL)</span><br />
+            <span> Endpoint : https://&lt;your cm host&gt;&gt;/sitecore/api/graph/edge</span><br />
+            <span> Delivery - Used when you have tested and approved content and published it.</span><br />
+            <span> IDE : https://edge.sitecorecloud.io/api/graphql/ide (browser URL)</span><br />
+            <span> Endpoint : https://edge.sitecorecloud.io/api/graphql/v1</span><br />
+            <br />
+            &bull; Token API<br />
+            <span> To manage the api keys use to access the delivery api</span><br />
+            <br />
+            &bull; Admin API<br />
+            <span> To administer edge tenant</span><br />
+            <div>&nbsp;</div>
+            </li>
+        </ul>
+        <p>
+        <p style="color: #979797; margin: 0in 0in 0in 0.375in;"><span style="text-decoration: underline;">Ways to get "X-GQL-TOKEN" - Approach-3</span></p>
+        <p style="margin: 0in 0in 0in 0.375in;">&nbsp;</p>
+        <ol style="margin-top: 0in; margin-bottom: 0in;">
+            <li value="1" style="margin-top: 0px; margin-bottom: 0px;"><span style="color: #979797;">Login to XM Cloud using below command</span></li>
+        </ol>
+        <p style="margin: 0in 0in 0in 0.375in;">&nbsp;</p>
+        <ol style="margin-top: 0in; margin-bottom: 0in;">
+            <li value="2" style="margin-top: 0px; margin-bottom: 0px;"><span style="color: #979797;">Generate JWT token using which you can request x-gl-token&nbsp;</span></li>
+        </ol>
+        <p style="margin: 0in 0in 0in 0.375in;">&nbsp;</p>
+        <ol style="margin-top: 0in; margin-bottom: 0in;">
+            <li value="3" style="margin-top: 0px; margin-bottom: 0px;"><span style="color: #979797;">Use the above generated token, to pass it to generate x-gql-token call</span></li>
+        </ol>
+        <p style="color: #979797; margin: 0in 0in 0in 0.375in;">NOTE: Fire command 2nd and 3rd from command prompt and not PowerShell or Postman</p>
+        </p>
+        <p style="color: #979797; margin: 0in 0in 0in 0.375in;">&nbsp;</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T103544Z

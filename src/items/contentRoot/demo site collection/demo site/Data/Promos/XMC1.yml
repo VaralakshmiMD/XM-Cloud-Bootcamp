@@ -1,0 +1,45 @@
+﻿---
+ID: "2105bcf1-02cb-4d1a-a86c-c7e1f16d02b9"
+Parent: "4fc603b1-3e2f-4605-b947-95d05d4aec25"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/demo site collection/demo site/Data/Promos/XMC1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230515T064910Z
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: "<p>Sitecore XM Cloud is a cloud-native, headless CMS, for developers and marketers to efficiently launch engaging omnichannel experiences. XM Cloud bundles:</p><ul><li>The latest versions of Experience Manager</li><li>Pages content editor</li><li>Sitecore Experience Accelerator (SXA)</li><li>Headless Services</li><li>Sitecore Next.js SDK</li><li>Experience Edge, since XM Cloud is a SaaS solution</li></ul><p><br /></p><p><br /></p>"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "08d890f9-ad68-4687-9704-859d9e04cf29"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230515T084557Z
+    - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
+      Hint: PromoLink
+      Value: |
+        <link linktype="external" url="https://developers.sitecore.com/learn/getting-started/xm-cloud-introduction#xm-cloud-architecture" target="" class="" text="Read More" title=""/>
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="1a6bbb55-74ab-469e-a459-ffd051abb6a0" />

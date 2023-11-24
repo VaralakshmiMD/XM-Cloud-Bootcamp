@@ -1,0 +1,52 @@
+﻿---
+ID: "f8f1bb01-3e2d-407b-afa2-4b09475ee3bd"
+Parent: "cee4f076-ef16-4af4-951f-779f7c0f0589"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/demo site collection/demo site/Home/About/Data/Text 1
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9AE3B7D3-4FAE-4F20-898B-B2E0C8466C1F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T052050Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h1>About</h1>
+        <p>
+        <span>
+        <p>Horizontal&rsquo;s 30,000 square-foot flagship office is home to 160+ of the world&rsquo;s most innovative UX designers, technologists, data scientists and software strategists. Since our inception in 2003, we&rsquo;ve helped Minnesota&rsquo;s network of Fortune 500 firms unlock greater possibilities at a global scale through experience-forward digital marketing and best-of-breed technology.</p>
+        
+        
+        <p>Better still, we&rsquo;re roommates with our sister company &mdash; Horizontal Talent &mdash; one of the largest staffing augmentation firms in the Midwest. Depending on the challenge, we have both the people and technology to solve it. Chris Staley, Horizontal Co-Founder and Digital Consultancy SVP, leads our Minneapolis office.</p>
+        </span></p>
+        <br />
+        <p>
+        <span>In 2013, we launched our first international office in Vadodara to serve as Horizontal Digital&rsquo;s hub for Western India operations. Today, this office is home to 80+ experience experts including developers, data analysts, back office support and more. To help our clients build their brands locally, we augment our next-gen technology solutions with a team of Horizontal Talent recruiters.</span></p>
+        <br />
+        <p><span>Our Bangalore office partners with global enterprises and mid-sized brands who are seizing leadership positions across the region. Home to Horizontal&rsquo;s Development Center, our team of 40+ front-end and back-end developers has enjoyed a steady diet of organic growth and increased market share in India&rsquo;s startup capital since we opened the doors in 2018.</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c5a1fc0d-b09e-4d9d-8176-73582aa14abc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230523T114630Z

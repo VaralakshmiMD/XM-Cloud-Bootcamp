@@ -1,0 +1,39 @@
+﻿---
+ID: "8a1b3934-45c0-420c-abda-78dcb940014d"
+Parent: "24531d69-d7f1-4b8e-852c-f016f282d0c0"
+Template: "897997f6-fb73-4bb7-bbcb-d1b6fde618d7"
+Path: /sitecore/content/demo site collection/demo site/Presentation/Page Designs
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7b5B9CAC6B-5A3F-4392-B955-7785AF53D31F%7d%26%7b27BB3352-8B18-481A-98EE-376914CBBDF7%7d%26%7bB1CC0E0A-AD72-4B8B-B3F6-F5142ACDE792%7d%26%7bEDAACB77-2E08-41F6-BB74-E7E3D6EF1933%7d"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230511T052027Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b99f1ec-2eaf-49d7-9d13-18bcbcac70a9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230530T102756Z

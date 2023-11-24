@@ -1,0 +1,43 @@
+﻿---
+ID: "937ef0ab-a612-4685-b438-cc02117e0e2f"
+Parent: "09e95f2c-73da-48f5-a372-2c5910d40c8e"
+Template: "edaacb77-2e08-41f6-bb74-e7e3d6ef1933"
+Path: /sitecore/content/demo site collection/demo site/Home/Events/EventDetails7
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{C9892497-0D1B-4A3F-B47C-62AB8B5AAFD7}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{699E0C6C-3B0E-4DA3-BFF8-3CD9EB3CABF9}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0fed443c-ba20-43e5-8ba0-9595db3e7753"
+      Hint: Title
+      Value: EventDetails7
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230531T115502Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{72E21251-85B0-4A13-B181-FCE910B08232}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: EventDetails7
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a93bdd8-685d-405c-8f1a-1c5eca5dfd19"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230601T051210Z

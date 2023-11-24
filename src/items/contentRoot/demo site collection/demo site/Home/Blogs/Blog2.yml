@@ -1,0 +1,37 @@
+﻿---
+ID: "ea108370-78c8-4a5c-9da3-fc2ae34aff0c"
+Parent: "53bc1e53-4840-4604-bd6e-69625ccf6aa9"
+Template: "27bb3352-8b18-481a-98ee-376914cbbdf7"
+Path: /sitecore/content/demo site collection/demo site/Home/Blogs/Blog2
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{4E9C5A2F-3B18-436E-8B80-A7171C80C769}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00d6819a-d934-4870-bcc9-bcaf7ad90748"
+      Hint: text
+      Value: Blog 2 Text
+    - ID: "0fed443c-ba20-43e5-8ba0-9595db3e7753"
+      Hint: Title
+      Value: Blog
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T173905Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Blog
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a76848aa-536d-4157-8f40-21b17d49f8f5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T105111Z

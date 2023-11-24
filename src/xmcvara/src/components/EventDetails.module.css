@@ -1,0 +1,27 @@
+.EventImage img {
+  width: 900px;
+  height: 700px;
+  align-items: center;
+  margin: 25px;
+}
+.Card {
+  display: flex;
+  flex: 3%;
+  flex-wrap: wrap;
+  text-align: center;
+  margin: 40px 80px 40px;
+}
+.EventTitle {
+  color: blue;
+  text-align: center;
+}
+
+.EventDescription {
+  margin: 20px;
+  text-align: left;
+}
+
+.EventLocation {
+  color: blue;
+  text-align: left;
+}

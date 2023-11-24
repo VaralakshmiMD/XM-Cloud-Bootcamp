@@ -1,0 +1,46 @@
+﻿---
+ID: "8249d4a6-9e84-419d-b84e-e9177f9a8675"
+Parent: "4fc603b1-3e2f-4605-b947-95d05d4aec25"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/demo site collection/demo site/Data/Promos/XMC11
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230515T083406Z
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: |
+        <p>why we need XM-cloud</p><ul><li><span style="color: inherit;">Speed:</span>&nbsp;Visitors are greeted with an experience that loads lightning-fast and engages instantly</li><li><span style="color: inherit;">Relevance:</span>&nbsp;Customers are recognized and welcomed back to an experience that understands their needs</li><li><span style="color: inherit;">Agility:</span>&nbsp;Marketers can easily orchestrate the overall experience across digital campaigns</li><li><span style="color: inherit;">Flexibility:</span>&nbsp;Developers can rapidly develop and launch new experience types with modern front-end frameworks</li></ul><p><br /></p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b6807e5-473b-46e2-80eb-81e36ea0be40"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230523T113138Z
+    - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
+      Hint: PromoLink
+      Value: |
+        <link linktype="external" url="https://developers.sitecore.com/learn/getting-started/xm-cloud-introduction" target="" class="" text="Read More" title=""/>
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="2fc0d157-f87b-480e-b67d-ee78e4bf05a7" ></image>

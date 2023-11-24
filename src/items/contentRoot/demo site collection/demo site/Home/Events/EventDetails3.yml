@@ -1,0 +1,66 @@
+﻿---
+ID: "42907fa0-4adb-406b-9cf2-5b9ae4f8ac7a"
+Parent: "09e95f2c-73da-48f5-a372-2c5910d40c8e"
+Template: "edaacb77-2e08-41f6-bb74-e7e3d6ef1933"
+Path: /sitecore/content/demo site collection/demo site/Home/Events/EventDetails3
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{50CF16CE-9316-4CE0-A618-357EFF959DD5}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fed443c-ba20-43e5-8ba0-9595db3e7753"
+      Hint: Title
+      Value: eventdetails3
+    - ID: "14c2830d-4475-44ab-9450-0ce5f070ec42"
+      Hint: EventImage
+      Value: |
+        <image mediaid="{9DFDBD62-624A-427D-AF48-0BD1912B20B8}" />
+    - ID: "210341dc-e09d-4f8a-87ea-1698b53dd3d5"
+      Hint: IntroText
+      Value: Deep dive session on XMC and Quiz with 3winners, quite interesting and long day
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T080422Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: EventDetails3
+    - ID: "66c30b1b-6d8d-42af-bbbf-7204188eb5ff"
+      Hint: RelatedEvents
+      Value: |
+        {F6AA0965-47A3-4D7A-B2EB-953BB27D1157}
+        {41FC6439-0E49-4CBB-A0EB-980DD9D38C8F}
+        {92C01878-ADF6-4429-AA86-EC3D34424538}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "34c4282d-bf0c-4b20-a2a6-c438ad218179"
+    - ID: "935ad2c6-85eb-40ee-bfae-f47ae5f27211"
+      Hint: EventTitle
+      Value: "Day3: Sitecore 10.3 Features for XM Cloud XM Cloud Advanced Features"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "cc8d50ef-62a4-4bf0-9386-60e390ea72cf"
+      Hint: EventLocation
+      Value: vadadora head office,4th floor.
+    - ID: "d39691eb-3c9a-421b-82c6-8284ca29906d"
+      Hint: EventDescription
+      Value: |
+        <p>JSS and Headless services</p>
+        <p>developer tools</p>
+        <p>SXA 10.3 new feature and improvements</p>
+        <p>Webhooks</p>
+        <p>XM Cloud pages personalize basics and configuration</p>
+        <p>cloud pages analyze</p>
+        <p>GraphQL authoring and management API</p>
+        <p>QUIZ&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T103806Z

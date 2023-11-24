@@ -1,0 +1,38 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Project.site",
+  "items": {
+    "includes": [
+      {
+        "name": "templates",
+        "path": "/sitecore/templates/Project/demo site collection",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "contentRoot",
+        "path": "/sitecore/content/demo site collection",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "media",
+        "path": "/sitecore/media library/Project/demo site collection",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "placeholderSettings",
+        "path": "/sitecore/layout/Placeholder Settings/Project/demo site collection",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "Renderings",
+        "path": "/sitecore/layout/Renderings/Project/demo site collection",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "FeatureRenderings",
+        "path": "/sitecore/layout/Renderings/Feature/BasicSite",
+        "allowedPushOperations": "CreateAndUpdate"
+      }
+    ]
+  }
+}

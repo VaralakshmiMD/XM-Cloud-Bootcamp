@@ -1,0 +1,67 @@
+﻿---
+ID: "9cedb5fb-5374-4fc7-b4e8-e445e54e9c12"
+Parent: "09e95f2c-73da-48f5-a372-2c5910d40c8e"
+Template: "edaacb77-2e08-41f6-bb74-e7e3d6ef1933"
+Path: /sitecore/content/demo site collection/demo site/Home/Events/EventDetails4
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{E03BC945-0614-4055-B210-0ECD7CC7C4E8}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fed443c-ba20-43e5-8ba0-9595db3e7753"
+      Hint: Title
+      Value: EventDetails4
+    - ID: "14c2830d-4475-44ab-9450-0ce5f070ec42"
+      Hint: EventImage
+      Value: |
+        <image mediaid="{28FC464D-EA8D-4646-8D28-AEE44F2FBEDF}" />
+    - ID: "210341dc-e09d-4f8a-87ea-1698b53dd3d5"
+      Hint: IntroText
+      Value: "Its happiest day to see our works deployed on vercel... here we go for it!!!!!!!!!!!!"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230523T063501Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: EventDetails4
+    - ID: "66c30b1b-6d8d-42af-bbbf-7204188eb5ff"
+      Hint: RelatedEvents
+      Value: |
+        {F6AA0965-47A3-4D7A-B2EB-953BB27D1157}
+        {41FC6439-0E49-4CBB-A0EB-980DD9D38C8F}
+        {42907FA0-4ADB-406B-9CF2-5B9AE4F8AC7A}
+        {92C01878-ADF6-4429-AA86-EC3D34424538}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c2a7a2f-3cb7-4ffc-96e2-e8711813a103"
+    - ID: "935ad2c6-85eb-40ee-bfae-f47ae5f27211"
+      Hint: EventTitle
+      Value: "Day4: XM Cloud Deployment ,Vercel Deployment"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\varalakshmi.md@horizontal.com
+    - ID: "cc8d50ef-62a4-4bf0-9386-60e390ea72cf"
+      Hint: EventLocation
+      Value: vadadora head office,4th floor.
+    - ID: "d39691eb-3c9a-421b-82c6-8284ca29906d"
+      Hint: EventDescription
+      Value: |
+        <p>XM cloud Architecture</p>
+        <p>Deployment process overview</p>
+        <p>Deploy Infrastructure</p>
+        <p>Backend Deployment</p>
+        <p>XMC build configuration, ENV variables, CLI</p>
+        <p>Vercel Basics and benefits</p>
+        <p>Frontend deployment using vercel</p>
+        <p>deployment overview and what got deployed</p>
+        <p>Deploy your Next.JS to vercel</p>
+        <p>Alternatives</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T103705Z
